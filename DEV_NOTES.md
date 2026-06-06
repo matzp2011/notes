@@ -7,3 +7,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-06-06
 - Noted known limitation in docs
+
+## 2026-06-06
+- Improved log message formatting
+- Addressed feedback from self code review
