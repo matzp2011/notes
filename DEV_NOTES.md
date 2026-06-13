@@ -16,3 +16,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Reorganised test fixtures
 - Drafted initial implementation plan for v2
+
+## 2026-06-13
+- Improved error handling in edge cases
+- Verified compatibility with latest runtime version
